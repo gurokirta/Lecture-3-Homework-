@@ -17,16 +17,17 @@
     text-decoration: none;
     color: gray;
     background-color: rgb(42, 41, 41);
-    width: 95px;
+    width: 110px;
     height: 30px;
     display: flex;
-    justify-content: space-between;
-    padding-top: 3px;
+    justify-content: center;
+    padding-top: 5px;
+
 }
 
 .nav-item:first-child{
     border-radius: 15px 0 0 15px;
-    padding-left: 15px;
+    /* padding-left: 10px; */
 }
 
 .nav-item:last-child{
